@@ -39,7 +39,7 @@
 
 This covers a wireless 13-pin Car Connector Tester using BlueTooth Low Energy Link (BLE)
 
-<h3>In this version the Wi-Fi is provisioned using BLE and a mobile App and a QR code</h3>
+<h3>In this version the connection is using Wi-Fi which is provisioned using BLE and a mobile App and a QR code</h3>
 
 You insert a plug in the cars connector and this power a wireless transmitter that you can connect to from you mobile phone
 The plug powers up the BLE link from the permanent +12V from the plug
