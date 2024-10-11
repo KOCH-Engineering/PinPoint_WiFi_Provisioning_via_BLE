@@ -63,6 +63,9 @@ The development board is an ESP32S3 with the module EPS32-S3-WROOM-1 onboard
 The chosen board in Arduino IDE is "ESPS3S3 Dev Module"
 To be able to have enough room for the code, you have to set Tools|Partition Scheme to "Huge APP (3MB No OTA/1MB SPIFFS)"
 
+When the code has been uploaded to the board the code sends out Serial (115200 baud) data on the COM port on the board
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
