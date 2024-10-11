@@ -59,6 +59,10 @@ The Tester will have different modes:
 This section list major frameworks that were used to build the project
 * [Arduiono IDE 2.3.3](https://www.arduino.cc/en/software)
 
+The development board is an ESP32S3 with the module EPS32-S3-WROOM-1 onboard
+The chosen board in Arduino IDE is "ESO32S2 Dev Module"
+To be able to have enough room for the code you have to set Tools|Partition Scheme to "Huge APP (3MB No OTA/1MB SPIFFS)"
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
