@@ -91,6 +91,7 @@ Project Link: [[https://github.com/henrikkoch/13_pin_socket_tester/]](https://gi
 ## Acknowledgements
 * [Github](https://www.github.com)
 * [Arduino](https://www.arduino.cc/)
+* [Link to Wifi Provisioning via BLE example](https://randomnerdtutorials.com/esp32-wi-fi-provisioning-ble-arduino/)
 * [Link to BLE Code Examples](https://randomnerdtutorials.com/esp32-web-bluetooth/)
 
 
